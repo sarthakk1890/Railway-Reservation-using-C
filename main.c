@@ -36,6 +36,7 @@ int main()
     printf("\t\t|                                               |\n");
     printf("\t\t|        -----------------------------          |\n");
     printf("\t\t|          TRAIN TICKET RESR. SYSTEM            |\n");
+    printf("\t\t|                -by Sarthak Singh              |\n");
     printf("\t\t|        -----------------------------          |\n");
     printf("\t\t|                                               |\n");
     printf("\t\t|                                               |\n");
